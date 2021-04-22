@@ -37,6 +37,11 @@ ul li{
     justify-content: space-around;
     margin-bottom: 10px;
 }
+ul li p{
+    width: 250px;
+    display: flex;
+    justify-content: start;
+}
 
 ul li i{
     cursor: pointer;
